@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    background: url(https://www.hautesavoiephotos.com/divers/nuages_matin_img0965.jpg) repeat fixed 100%;
+    background-size: cover;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: darkorange;
+}
+.two{
+	background-size: cover;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
+	text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+.three{
+    background: url(https://www.alibabuy.com/photos/library/1500/25574.jpg) repeat fixed 100%;
+    background-size: cover;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: darkorange;
+   }
+.cont{
+        width:100vw;
+        height:100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}

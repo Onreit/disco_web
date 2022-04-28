@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+    width: 100vw;
+    height: 100vh;
+    padding: 0%;
+    border: 0px;
+}
+
+table {
+    border: 2px solid black;
+    width: 100vw;
+    height: 100vh;
+    border-collapse: collapse;
+    padding: 0px;
+    border: 0px;
+}
+th {
+    padding: 20%;
+    border: 2px solid black;
+    width: 50%;
+}
+#gauche {
+    background-color: rgb(0, 110, 255);
+}
+#droite {
+    background-color: red;
+}
